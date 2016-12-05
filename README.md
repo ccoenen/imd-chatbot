@@ -38,7 +38,7 @@ The only required configuration is naming your bot! The name is part of the
 start scripts `bin/hubot` (Mac OS/Linux) or `bin/hubot.cmd` (Windows). Open
 the one for your platform and replace *berndibernd* with a nice suitable name.
 
-In case you have trouble coming up with a name, try this [baby name generator](www.babynames.co.uk/name-builder/?randomname=1).
+In case you have trouble coming up with a name, try this [baby name generator](http://www.babynames.co.uk/name-builder/?randomname=1).
 
 ### Start it
 
