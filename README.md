@@ -62,7 +62,7 @@ Then you can interact with your bot by typing `<your-chosen-name> help` in your 
     berndibernd help - Displays all of the help commands that berndibernd knows about.
     ...
 
-Now <span style="color: red">stop the bot</span> with <kbd>Ctrl</kbd>+<kbd>C</kbd> on your keyboard.
+Now **stop the bot** with <kbd>Ctrl</kbd>+<kbd>C</kbd> on your keyboard.
 
 So far, all of this is just happening on your own machine. This mode is very
 convenient for debugging, but the point is to have an actual chat bot for many
