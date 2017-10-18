@@ -30,7 +30,7 @@ it somewhere.
 
 Either way, change into the newly created directory in your terminal  
 
-Run `npm install`
+If you use MacOS or Linux, run `npm install`. If you use Windows, run `npm install --no-optional`.
 
 ### Configure it
 
