@@ -30,7 +30,9 @@ it somewhere.
 
 Either way, change into the newly created directory in your terminal  
 
-If you use MacOS or Linux, run `npm install`. If you use Windows, run `npm install --no-optional`.
+run `npm install --no-optional` to install the required packages. The
+`--no-optional` is somewhat odd, but there appears to be a package that can't
+be built on many computers. Luckily, it's optional.
 
 ### Configure it
 

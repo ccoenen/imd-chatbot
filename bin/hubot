@@ -3,7 +3,7 @@
 set -e
 
 export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
-export HUBOT_IRC_SERVER="irc.freenode.net"
+export HUBOT_IRC_SERVER="irc.wolki.de"
 export HUBOT_IRC_ROOMS="#imdrocks"
 
 exec node_modules/.bin/hubot --name "berndibernd" "$@"
