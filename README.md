@@ -9,12 +9,12 @@ This repository has been preconfigured for a specific **IRC-Channel** - good old
 Internet Relay Chat. In case you don't have an IRC program installed, you can
 enter the chat room with your web browser:
 
-http://webchat.freenode.net/?channels=imdrocks
+http://irc.wolki.de
 
 If you do have an IRC client, connect it to:
 
 ```
-Server: irc.freenode.net
+Server: irc.wolki.de
 Channel: #imdrocks
 ```
 
